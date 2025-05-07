@@ -1,0 +1,118 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 13.25'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:GContainer='http://ns.google.com/photos/1.0/container/'
+  xmlns:GItem='http://ns.google.com/photos/1.0/container/item2/'
+  xmlns:tmp0='http://ns.google.com/photos/1.0/container2/'>
+  <GContainer:Directory>
+   <rdf:Seq>
+    <rdf:li rdf:parseType='Resource'>
+     <tmp0:Item rdf:parseType='Resource'>
+      <GItem:Mime>image/jpeg</GItem:Mime>
+      <GItem:Semantic>Primary</GItem:Semantic>
+     </tmp0:Item>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <tmp0:Item rdf:parseType='Resource'>
+      <GItem:Length>70060</GItem:Length>
+      <GItem:Mime>image/jpeg</GItem:Mime>
+      <GItem:Semantic>GainMap</GItem:Semantic>
+     </tmp0:Item>
+    </rdf:li>
+   </rdf:Seq>
+  </GContainer:Directory>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:digiKam='http://www.digikam.org/ns/1.0/'>
+  <digiKam:TagsList>
+   <rdf:Seq>
+    <rdf:li>Location/Spanien/Comunitat Valenciana/ Alicante/Alacant /el Baix Vinalopó/Santa Pola/ Avenida de Fernando Pérez de Ojeda/Avinguda de Fernando Pérez de Ojeda /Restaurante Casa del Mar</rdf:li>
+   </rdf:Seq>
+  </digiKam:TagsList>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:exif='http://ns.adobe.com/exif/1.0/'>
+  <exif:ApertureValue>13166/7763</exif:ApertureValue>
+  <exif:BrightnessValue>41/5</exif:BrightnessValue>
+  <exif:ColorSpace>65535</exif:ColorSpace>
+  <exif:ComponentsConfiguration>
+   <rdf:Seq>
+    <rdf:li>1</rdf:li>
+    <rdf:li>2</rdf:li>
+    <rdf:li>3</rdf:li>
+    <rdf:li>0</rdf:li>
+   </rdf:Seq>
+  </exif:ComponentsConfiguration>
+  <exif:DateTimeOriginal>2025-05-02T13:16:45</exif:DateTimeOriginal>
+  <exif:DigitalZoomRatio>1/1</exif:DigitalZoomRatio>
+  <exif:ExifVersion>0210</exif:ExifVersion>
+  <exif:ExposureBiasValue>0/1</exif:ExposureBiasValue>
+  <exif:ExposureProgram>2</exif:ExposureProgram>
+  <exif:ExposureTime>1/1417</exif:ExposureTime>
+  <exif:FNumber>9/5</exif:FNumber>
+  <exif:Flash rdf:parseType='Resource'>
+   <exif:Fired>False</exif:Fired>
+   <exif:Function>False</exif:Function>
+   <exif:Mode>0</exif:Mode>
+   <exif:RedEyeMode>False</exif:RedEyeMode>
+   <exif:Return>0</exif:Return>
+  </exif:Flash>
+  <exif:FlashpixVersion>0100</exif:FlashpixVersion>
+  <exif:FocalLength>27/5</exif:FocalLength>
+  <exif:FocalLengthIn35mmFilm>23</exif:FocalLengthIn35mmFilm>
+  <exif:GPSAltitude>296901/5000</exif:GPSAltitude>
+  <exif:GPSAltitudeRef>0</exif:GPSAltitudeRef>
+  <exif:GPSLatitude>38,11.4487740N</exif:GPSLatitude>
+  <exif:GPSLongitude>0,33.4734090W</exif:GPSLongitude>
+  <exif:GPSMapDatum>WGS-84</exif:GPSMapDatum>
+  <exif:GPSVersionID>2.3.0.0</exif:GPSVersionID>
+  <exif:ISOSpeedRatings>
+   <rdf:Seq>
+    <rdf:li>50</rdf:li>
+   </rdf:Seq>
+  </exif:ISOSpeedRatings>
+  <exif:ImageUniqueID>F50XLPE00VM F50XLPE00VM</exif:ImageUniqueID>
+  <exif:MaxApertureValue>13166/7763</exif:MaxApertureValue>
+  <exif:MeteringMode>3</exif:MeteringMode>
+  <exif:PixelXDimension>8160</exif:PixelXDimension>
+  <exif:PixelYDimension>6120</exif:PixelYDimension>
+  <exif:SceneCaptureType>0</exif:SceneCaptureType>
+  <exif:WhiteBalance>0</exif:WhiteBalance>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:hdrgm='http://ns.adobe.com/hdr-gain-map/1.0/'>
+  <hdrgm:Version>1.0</hdrgm:Version>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:DateCreated>2025-05-02T13:16:45</photoshop:DateCreated>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:tiff='http://ns.adobe.com/tiff/1.0/'>
+  <tiff:DateTime>2025-05-02T13:16:45</tiff:DateTime>
+  <tiff:Make>samsung</tiff:Make>
+  <tiff:Model>Galaxy S25</tiff:Model>
+  <tiff:Orientation>6</tiff:Orientation>
+  <tiff:ResolutionUnit>2</tiff:ResolutionUnit>
+  <tiff:Software>S931BXXS1AYC2</tiff:Software>
+  <tiff:XResolution>72/1</tiff:XResolution>
+  <tiff:YCbCrPositioning>1</tiff:YCbCrPositioning>
+  <tiff:YResolution>72/1</tiff:YResolution>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xmp='http://ns.adobe.com/xap/1.0/'>
+  <xmp:CreateDate>2025-05-02T13:16:45</xmp:CreateDate>
+  <xmp:MetadataDate>2025-05-02T13:16:45</xmp:MetadataDate>
+  <xmp:ModifyDate>2025-05-02T13:16:45</xmp:ModifyDate>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+<?xpacket end='w'?>
